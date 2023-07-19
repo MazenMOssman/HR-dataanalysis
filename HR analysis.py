@@ -42,7 +42,7 @@ from sklearn.svm import SVR
 # In[9]:
 
 
-Data = pd.read_csv(r"C:\Users\princ\Desktop\Datamining dataset\suggested datasets\HRDataset_v14.csv")
+Data = pd.read_csv(r"C:\HRDataset_v14.csv")
 
 
 # In[10]:
